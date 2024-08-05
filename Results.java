@@ -38,16 +38,4 @@ public class Student {
      System.out.println("Hello");
      return;
 }
-<<<<<<< HEAD
-
-void myTest()
-{
-
-}
-<<<<<<< HEAD
-void myTest2();
-=======
->>>>>>> parent of 5aa6f2b (Update Results.java)
-=======
->>>>>>> parent of 1f282f9 (Update Results.java)
 }
