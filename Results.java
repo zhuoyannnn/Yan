@@ -43,4 +43,5 @@ void myTest()
 {
 
 }
+void myTest2();
 }
